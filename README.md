@@ -20,7 +20,8 @@ Started with existing HTML and CSS for Horiseon Social Solution Services, Inc. T
 
 ## Mock-Up
 
-![code refactor demo](./assets/01-html-css-git-homework-demo.png)
+![Horiseon Mock Up Screenshot](assets/images/jl118.github.io_homework1-horiseon_.png)
 
 ## Link to deployed application
 
+https://jl118.github.io/homework1-horiseon/
